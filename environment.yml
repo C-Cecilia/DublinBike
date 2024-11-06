@@ -1,0 +1,12 @@
+name: comp30830
+channels:
+  - defaults
+dependencies:
+  - python
+  - scikit-learn
+  - pandas
+  - jupyterlab
+  - numpy
+  - mysqlclient
+  - sqlalchemy
+prefix: /Users/chenyalun/opt/anaconda3/envs/comp30830
