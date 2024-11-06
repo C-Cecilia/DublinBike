@@ -46,10 +46,10 @@ This project was collaboratively developed by:
 ##  🎓 Learning Outcomes
 Through this project, the team gained experience in:
 
-- **JavaScript and Data Handling: Manipulating JSON data for frontend display.
-- **Backend Development: Integrating Flask API with machine learning models.
-- **Data Visualization: Using Google Maps API for interactive data presentation.
-- **Predictive Modeling: Building and deploying a Random Forest model.
+- JavaScript and Data Handling: Manipulating JSON data for frontend display.
+- Backend Development: Integrating Flask API with machine learning models.
+- Data Visualization: Using Google Maps API for interactive data presentation.
+- Predictive Modeling: Building and deploying a Random Forest model.
 
 
 ## 📜 License and Usage
